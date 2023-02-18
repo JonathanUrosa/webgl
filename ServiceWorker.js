@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-My project-0.1.0";
 const contentToCache = [
     "Build/webgl.loader.js",
-    "Build/webgl.framework.js.br",
-    "Build/webgl.data.br",
-    "Build/webgl.wasm.br",
+    "Build/webgl.framework.js.unityweb",
+    "Build/webgl.data.unityweb",
+    "Build/webgl.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
